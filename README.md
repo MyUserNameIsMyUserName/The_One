@@ -8,4 +8,4 @@
 >[ n^0 = 0^(0^1)^1^(1^0)^0 ]    
 >#
    
-![logo printing](http://url/to/img.png)
+![logo printing](https://raw.githubusercontent.com/MyUserNameIsMyUserName/The_One/fukinMASTER/application/assets/Screenshot_1.png)
