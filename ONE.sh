@@ -1,14 +1,5 @@
 clear
 IFS=$'\n' read -d '' -r -a lines < application/data/app_version_info.txt
-printf "Version: %s\n" "${lines[0]}"
-appVer="${lines[0]}"
-printf "Code Name: %s\n" "${lines[1]}"
-printf "Author: %s\n" "${lines[2]}"
-
-echo -e $PWD
-while read line
-    do echo -e $line
-done < './application/data/app_version_info.txt'
 
 echo -e "\e[48;5;241m                                                                                                                                                                                                                        \e[0m";
 echo -e "\e[48;5;241m                                                                                                                                                                                                                        \e[0m";
